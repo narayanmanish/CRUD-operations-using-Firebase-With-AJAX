@@ -1,0 +1,7 @@
+{
+    "name": "dell/php_firebase",
+    "require": {
+        "php": "^7.4",
+        "kreait/firebase-php": "^6.8"
+    }
+}
